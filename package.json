@@ -1,0 +1,23 @@
+{
+  "name": "data-comression",
+  "version": "1.0.0",
+  "description": "An attempt at data compression competition http://prize.hutter1.net/",
+  "main": "index.js",
+  "scripts": {
+    "test": "run-test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/parveshgoya01/data-comression.git"
+  },
+  "keywords": [
+    "data-comression",
+    "hutter"
+  ],
+  "author": "parveshgoyal01",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/parveshgoya01/data-comression/issues"
+  },
+  "homepage": "https://github.com/parveshgoya01/data-comression#readme"
+}
